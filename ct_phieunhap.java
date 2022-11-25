@@ -68,4 +68,10 @@ public class ct_phieunhap extends phieunhap {
         this.soluong = soluong;
     }
     
+    //bcajkbkjabdaksbdnjakdnasdnjsanjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+    //nsajkdbkajdjkabdkjadjsabdkjabdkjsbdkjasbdkjabdasbdkjsdjbdjkbdsajbdsjbdjbdjsbdkjsbdjkasbdkasda
+    //dnajkbdkjabdkjasdsbdkjabdjsbsjjjjjjjjjjjjjjjjjjjhdhhhhhhhhhhhhhhhhh
+    
+    
+    
 }
